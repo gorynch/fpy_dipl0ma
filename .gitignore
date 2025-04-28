@@ -1,0 +1,7 @@
+env
+static/files/user_1
+.env
+.DS_Store*
+.idea
+.venv
+.DS_Store*
